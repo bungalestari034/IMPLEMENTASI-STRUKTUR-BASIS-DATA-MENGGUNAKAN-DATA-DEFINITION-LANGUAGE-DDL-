@@ -1,0 +1,6 @@
+DESC kelas;
+DESC mahasiswa;
+DESC dosen;
+DESC mata_kuliah;
+DESC jadwal_matakuliah;
+DESC nilai;
